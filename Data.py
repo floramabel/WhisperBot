@@ -14,7 +14,7 @@ Only that friend and you will be able to read the message even though others are
 
 To see how to use me press 'How to Use' below.
 
-By @StarkBots
+By @xKiraMay
     """
 
     # Home Button
@@ -31,8 +31,8 @@ By @StarkBots
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/Kira_Universe")],
+        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/xKiraMay")],
     ]
 
     # Help Message
@@ -46,9 +46,7 @@ Just type the message in below format in any chat.
     ABOUT = """
 **About This Bot** 
 
-Bot created by @StarkBots
-
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/WhisperBot)
+Bot created by @xKiraMay
 
 Inspired By : nnbbot
 
