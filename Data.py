@@ -39,7 +39,7 @@ By @xKiraMay
     HELP = """
 Just type the message in below format in any chat.
 
-`@WhisperStarkBot your_message friend_username/id`
+`@WannaWhisperBot your_message friend_username/id`
     """
 
     # About Message
